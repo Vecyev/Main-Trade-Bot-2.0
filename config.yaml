@@ -1,0 +1,4 @@
+symbol: "NVDA"
+cost_basis: 650
+log_level: "INFO"
+ml_model_path: "model.pkl"
